@@ -5,10 +5,6 @@ Drug Label Text Extraction💊 <br>  Optical Character Recognition (OCR)🔎
 <h3 align="center">Automated Text Extraction and Visualization with PaddleOCR 🤖</h3>
 
 
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Deep-Learning-Projects/blob/main/04_Drug_Label_Extraction_PaddleOCR/drug4_output.png?raw=true"
-</p>
-
 ## Project Insight 
 Imagine you're at home, feeling tired after a long day, and you need to check the instructions on a medication bottle or food package. The text might be too small, the lighting could be poor, or you’re just too exhausted to focus properly. In such moments, trying to read these labels becomes frustrating and prone to mistakes.
 
@@ -34,10 +30,8 @@ Automating text extraction from drug labels speeds up the process and eliminates
 3. **Text Detection and Recognition**: The model extracted text from the labels and stored it.
 4. **Visualization**: The detected text was annotated on the images for a clear, visual representation.
 
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Deep-Learning-Projects/blob/main/04_Drug_Label_Extraction_PaddleOCR/drug5_output.png?raw=true"
-</p>
-   
+
+
 ## Conclusion
 
 The project demonstrates how PaddleOCR can be effectively used to automate drug label text extraction. By simplifying access to essential information, this tool can positively impact healthcare and everyday life, improving safety and efficiency in reading labels.
@@ -49,12 +43,6 @@ The project demonstrates how PaddleOCR can be effectively used to automate drug 
   
 ---    
 
-## ⬇️Installation
-
-*To view the notebook online, visit my **Kaggle** profile.*
-*If you find this work helpful, don't forget to give it an 👍 UPVOTE! and join the discussion!*
-
- - Kaggle Notebook: [Drug Label Text Extraction with PaddleOCR 🔎💊](https://www.kaggle.com/code/duygujones/drug-label-text-extraction-with-paddleocr)
 
 
 ## 🤝Contributing
@@ -65,15 +53,9 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me
 
-I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine learning.
+I'm Kalyani Wagh, a Data Scientist, passionate about data analysis, and machine learning.
 
-♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
 
 🌐Feel free to connect with me!
 
@@ -86,7 +68,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine l
 Code with joy! 👩‍💻✨
 
 ---
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
