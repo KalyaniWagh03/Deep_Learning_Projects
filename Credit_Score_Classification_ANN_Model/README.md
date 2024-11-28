@@ -6,9 +6,6 @@
 
 
 ## Project Overview
-<p align="center">
-  <img src="https://github.com/AkshayShekade/Deep_Learning_Projects/blob/main/Credit_Score_Classification_ANN_Model/_4ace9bdf-e963-4b32-9c62-6e92b4b839fa.jpg"
-</p>
   
 This project focuses on building a robust **Artificial Neural Network (ANN)** model to predict customer credit scores based on various attributes, including demographic, financial, and behavioural data.   
 The objective is to classify customers into three categories: **Good**, **Standard**, and **Poor** credit scores, assisting financial institutions in making informed lending decisions.
@@ -111,14 +108,9 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me
 
-I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
+I'm Kalyani Wagh, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
-♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
-- **Website**: [Portfolio](https://akshayshekade.github.io/)
-- **GitHub**: [Github](https://github.com/AkshayShekade)
-- **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
 
 
 🌐Feel free to connect with me!
